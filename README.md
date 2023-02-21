@@ -16,10 +16,16 @@
 <div align="center">
     <h2>⚙️ Languages and tools</h2>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"/>
 
 </div>
+<hr>
+<!-- <h2>Contacto</h2>
+	<p>Si estás interesado en colaborar conmigo en algún proyecto o simplemente quieres contactarme, no dudes en enviarme un mensaje a través de mi correo electrónico o mi perfil de LinkedIn. Estoy ansioso por trabajar en nuevos proyectos y aprender cosas nuevas. ¡Gracias por visitar mi perfil de GitHub!</p> -->
 
