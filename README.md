@@ -3,7 +3,7 @@
     <h1 align="center">Hi there, I'm BAN-98 👋</h1>
     <h3 align="justify">If you're here, you're probably interested in learning more about my GitHub profile and what I do as a Full Stack Web Developer. In this README, I will provide you with a brief introduction about myself, my skills and projects.</h3>
 </div>
----
+<hr>
 <h2>⚙️--Skills</h2>
  <ul>
   <li>💾--Programming languages: JavaScript, Python, Ruby, PHP, HTML, CSS</li><br>
