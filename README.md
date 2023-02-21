@@ -4,13 +4,13 @@
     <h3 align="justify">If you're here, you're probably interested in learning more about my GitHub profile and what I do as a Full Stack Web Developer. In this README, I will provide you with a brief introduction about myself, my skills and projects.</h3>
 </div>
 ---
-<h2>Skills</h2>
+<h2>⚙️--Skills</h2>
  <ul>
-  <li>Programming languages: <i class="fab fa-js-square"></i> , Python, Ruby, PHP, HTML, CSS</li><br>
-  <li>Frameworks and libraries: React, Angular, Vue, Node.js, Express.js, Flask, Ruby on Rails, Laravel</li><br>
-  <li>Databases: MySQL, MongoDB, PostgreSQL, SQLite</li><br>
-  <li>Version control: Git</li><br>
-  <li>Development tools: Visual Studio Code, Atom, Sublime Text, Docker</li><br>
+  <li>💾--Programming languages: JavaScript, Python, Ruby, PHP, HTML, CSS</li><br>
+  <li>💽--Frameworks and libraries: React, Angular, Vue, Node.js, Express.js, Flask, Ruby on Rails, Laravel</li><br>
+  <li>📀--Databases: MySQL, MongoDB, PostgreSQL, SQLite</li><br>
+  <li>🔥--Version control: Git</li><br>
+  <li>💻--Development tools: Visual Studio Code, Atom, Sublime Text, Docker</li><br>
  </ul>
 
 <!--
