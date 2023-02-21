@@ -1,4 +1,8 @@
-https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif
+<div id="header" aling="center">
+    <igm src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif">
+</div>
+
+
 ### Hi there 👋
 
 <!--
