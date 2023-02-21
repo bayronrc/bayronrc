@@ -1,4 +1,4 @@
-<div id="header" aling="center">
+<div id="header" aling="center" style="width:200px; heigh: 200px;">
     <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif">
 </div>
 
