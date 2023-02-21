@@ -6,7 +6,7 @@
 ---
 <h2>Skills</h2>
  <ul>
-  <li>Programming languages: JavaScript, Python, Ruby, PHP, HTML, CSS</li><br>
+  <li>Programming languages: <i src="https://www.flaticon.com/free-icon/js_5968292?term=javascript&page=1&position=4&origin=search&related_id=5968292">, Python, Ruby, PHP, HTML, CSS</li><br>
   <li>Frameworks and libraries: React, Angular, Vue, Node.js, Express.js, Flask, Ruby on Rails, Laravel</li><br>
   <li>Databases: MySQL, MongoDB, PostgreSQL, SQLite</li><br>
   <li>Version control: Git</li><br>
