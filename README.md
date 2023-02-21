@@ -24,6 +24,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"/>
 
+    
+
 </div>
 <hr>
 <!-- <h2>Contacto</h2>
