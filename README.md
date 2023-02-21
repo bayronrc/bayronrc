@@ -1,7 +1,7 @@
 <div id="header" align="center" >
     <img src="https://media.giphy.com/media/EaEWuES5SDSpcnOlRt/giphy.gif" style="width: 400px ;">
-    <h1>Hi there 👋</h1>
-    <h3>Si estás aquí, probablemente estás interesado en conocer más acerca de mi perfil de GitHub y de lo que hago como Desarrollador Web Full Stack. En este README, te proporcionaré una breve introducción sobre mí, mis habilidades y proyectos</h3>
+    <h1>Hi there, I'm BAN-98 👋</h1>
+    <h3>If you're here, you're probably interested in learning more about my GitHub profile and what I do as a Full Stack Web Developer. In this README, I will provide you with a brief introduction about myself, my skills and projects.</h3>
 </div>
 
 
