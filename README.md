@@ -10,7 +10,7 @@
   <li>💽--Frameworks and libraries: React, Angular, Vue, Node.js, Express.js, Flask, Ruby on Rails, Laravel</li><br>
   <li>📀--Databases: MySQL, MongoDB, PostgreSQL, SQLite</li><br>
   <li>🔥--Version control: Git</li><br>
-  <li>💻--Development tools: Visual Studio Code, Atom, Sublime Text, Docker</li><br>
+  <li>💻--Development tools: Visual Studio Code, Atom, Sublime Text</li><br>
  </ul>
 <hr>
 <div align="center">
