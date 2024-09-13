@@ -2,10 +2,7 @@
 
 I am Bayron from Pasto, Colombia who is an Open Source contributor, and Pixel Artist, loves Anime and Manga, always learning new things, ready for discussions and making new projects, write blogs on Dev.to etc.
 
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: [Acknowledged](https://raw.githubusercontent.com/Delta456/Delta456/master/img/solomon.png) by [Guido Van Rossum](https://github.com/gvanrossum) himself 🤯
-
-![Swastik Baranwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Delta456&show_icons=true&include_all_commits=true)
+![Swastik Baranwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bayronrc&show_icons=true&include_all_commits=true)
 
 
 ### Programming Languages 🌐
