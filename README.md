@@ -20,7 +20,7 @@ I'm a passionate software developer with experience in a wide range of technolog
 
 ### 📫 How to reach me
 
-- LinkedIn: [\[your LinkedIn profile\]](https://www.linkedin.com/in/bayron/)
+- LinkedIn: [https://www.linkedin.com/in/bayron/]
 - Email: [rysh3n98@gmail.com]
 
 ### ⚡ Fun fact
