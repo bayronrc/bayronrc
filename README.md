@@ -12,4 +12,12 @@ I'm **Bayron**, from **Pasto, Colombia**. I'm a **Backend Developer**, **Open So
 
 | **Programming Languages 🌐** | **Frameworks 📑** | **Tools 🔧** | **Databases 🌟** | **Cloud ☁️** |
 |:----------------------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
-| [![My Skills](https://skillicons.dev/icons?i=php,js,ts,java)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=laravel,nest,express,spring)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=docker
+| [![My Skills](https://skillicons.dev/icons?i=php,js,ts,java)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=laravel,nest,express,spring)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=docker,vscode,idea,eclipse,notion,obsidian,powershell,bash)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)|
+
+---
+
+### 📫 Connect with Me
+
+- GitHub: [bayronrc](https://github.com/bayronrc)
+- Twitter: [@bayron_dev](https://twitter.com/bayron_dev)
+- Dev.to: [bayronrc](https://dev.to/bayronrc)
