@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Bayron**, from **Pasto, Colombia**. I'm a **Backend Developer**, **Open Source contributor**, and **Pixel Artist**. I have a passion for **Anime** and **Manga**, and I'm always eager to **learn new things**, engage in **discussions**, and work on **exciting projects**. I also write technical blogs on [Dev.to](https://dev.to/).
+I'm **Bayron**, from **Pasto, Colombia**. I'm a **Backend Developer**, **Open Source contributor**, and **Pixel Artist**. I have a passion for **Anime** and **Manga**, and I'm always eager to **learn new things**, engage in **discussions**, and work on **exciting projects**.
 
 ---
 
