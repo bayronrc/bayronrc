@@ -1,13 +1,11 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="max-width: 60%;">
-    ### Hi there 👋
+### Hi there 👋
 
-  I'm **Bayron**, from **Pasto, Colombia**. I'm a **Backend Developer**, **Open Source contributor**, and **Pixel Artist**. I have a passion for **Anime** and **Manga**, and I'm always eager to **learn new things**, engage in **discussions**, and work on **exciting projects**.
-  </div>
-  <div>
-    <img src="https://yourgifurl.com/your-gif.gif" alt="GIF" style="width: 150px; border-radius: 10px;">
-  </div>
-</div>
+I'm **Bayron**, from **Pasto, Colombia**.  
+I'm a **Backend Developer**, **Open Source contributor**, and **Pixel Artist**.  
+I have a passion for **Anime** and **Manga**, and   
+I'm always eager to **learn new things**, engage in **discussions**, and work on **exciting projects**.
+
+<img src="https://media.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif" width="480" height="269" alt="Lofi GIF">
 
 ---
 
