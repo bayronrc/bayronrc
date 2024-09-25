@@ -15,6 +15,13 @@ Bayron</a></h1>
   
 - ⭐ engage in **discussions**, and work on **exciting projects**.
 ---
+### 🔧 Technologies & Tools
+
+| **Programming Languages 🌐** | **Frameworks 📑** | **Tools 🔧** | **Databases 🌟** | **Cloud ☁️** |
+|:----------------------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
+| [![My Skills](https://skillicons.dev/icons?i=php,js,ts,java)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=laravel,nest,express,spring)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=docker,vscode,idea,eclipse,notion,obsidian,powershell,bash)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev) |
+
+---
 
 <p align="center">
   <!--- stats (start) -->
@@ -47,13 +54,6 @@ Bayron</a></h1>
 
 </p> 
 
-### 🔧 Technologies & Tools
-
-| **Programming Languages 🌐** | **Frameworks 📑** | **Tools 🔧** | **Databases 🌟** | **Cloud ☁️** |
-|:----------------------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
-| [![My Skills](https://skillicons.dev/icons?i=php,js,ts,java)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=laravel,nest,express,spring)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=docker,vscode,idea,eclipse,notion,obsidian,powershell,bash)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev) |
-
----
 
 ### 📫 Connect with Me
 
